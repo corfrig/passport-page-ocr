@@ -1,0 +1,161 @@
+{
+  "group": "normal",
+  "source": "MIDV-2020, ручная разметка",
+  "annotations": [
+    {
+      "image": "normal/001.png",
+      "surname": {
+        "expected": "ЯКУСИК",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ЭММАНУИЛ",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "ФЕДОСИЕВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "13.04.1992",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "6812",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "353092",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "С. РЫСЛИ МОРШАНСКОГО Р-НА ТАМБОВСКОЙ ОБЛ.",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "normal/002.png",
+      "surname": {
+        "expected": "АЗАРЕНКОВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ВЯЧЕСЛАВ",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "НАТАНОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "17.11.1989",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4509",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "138583",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "РЕСП. АРМЕНИЯ",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "normal/003.png",
+      "surname": {
+        "expected": "КАРБАИНОВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "АЛЕКСЕЙ",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "СВЯТОСЛАВОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "13.09.1985",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4505",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "679944",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОР. ЧЕРДАКЛЫ ЧЕРДАКЛИНСКОГО РАЙОНА УЛЬЯНОВСКОЙ ОБЛАСТИ",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "normal/004.png",
+      "surname": {
+        "expected": "КРАВЦОВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ЗИНОВИЙ",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "АЛЕКСЕЕВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "26.05.1998",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4518",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "609172",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОРОД СЕВАСТОПОЛЬ КРЫМСКОЙ ОБЛАСТИ",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "normal/005.png",
+      "surname": {
+        "expected": "КАРАЕВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ПРОХОР",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "ИПАТОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "31.08.1973",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4518",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "438004",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОР. МИЧУРИНСК ТАМБОВСКОЙ ОБЛ.",
+        "visibility": "normal"
+      }
+    }
+  ]
+}
