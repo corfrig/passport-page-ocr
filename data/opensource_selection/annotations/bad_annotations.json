@@ -1,0 +1,161 @@
+{
+  "group": "bad",
+  "source": "MIDV-2020, ручная разметка",
+  "annotations": [
+    {
+      "image": "bad/001.png",
+      "surname": {
+        "expected": "КАРИБЖАНОВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ЛЕОНИД",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "ДАВИДОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "03.06.1978",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4598",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "647461",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОР. МОСКВА",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "bad/002.png",
+      "surname": {
+        "expected": "ВАЛЕЕВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ФОМА",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "МИРОСЛАВОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "06.09.1972",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4617",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "599405",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОР. НОГИНСК МОСКОВСКОЙ ОБЛ.",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "bad/003.png",
+      "surname": {
+        "expected": "ИВАШИН",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ВЕНЕДИКТ",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "ВАДИМОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "15.04.1979",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4599",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "077821",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОРОД ЭЛЕКТРОСТРАЛЬ МОСКОВСКОЙ ОБЛАСТИ",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "bad/004.png",
+      "surname": {
+        "expected": "ОСИНОВ",
+        "visibility": "normal"
+      },
+      "name": {
+        "expected": "ЛУКЬЯН",
+        "visibility": "normal"
+      },
+      "patronymic": {
+        "expected": "ОНИСИМОВИЧ",
+        "visibility": "normal"
+      },
+      "birth_date": {
+        "expected": "24.10.1973",
+        "visibility": "normal"
+      },
+      "series": {
+        "expected": "4518",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "809064",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "ГОР. БОРЖОМИ ГРУЗИЯ",
+        "visibility": "normal"
+      }
+    },
+    {
+      "image": "bad/021.png",
+      "surname": {
+        "expected": "ЕРМУШИН",
+        "visibility": "bad"
+      },
+      "name": {
+        "expected": "ВИССАРИОН",
+        "visibility": "bad"
+      },
+      "patronymic": {
+        "expected": "АНДРЕЕВИЧ",
+        "visibility": "bad"
+      },
+      "birth_date": {
+        "expected": "21.01.1995",
+        "visibility": "bad"
+      },
+      "series": {
+        "expected": "6715",
+        "visibility": "normal"
+      },
+      "number": {
+        "expected": "573009",
+        "visibility": "normal"
+      },
+      "birth_place": {
+        "expected": "Г. ДЖЕТЫ ГОРА КУСТАНАЙСКОЙ ОБЛАСТИ КАЗАХСТАН",
+        "visibility": "bad"
+      }
+    }
+  ]
+}
